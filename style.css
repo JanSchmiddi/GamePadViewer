@@ -223,7 +223,7 @@ strong {
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/master/trigger.png);
+    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/df286ca17e8e13d16dcb5ee8d4daa3c0cf61e694/trigger.svg);
     opacity: 0;
 }
 
@@ -240,7 +240,7 @@ strong {
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/master/bumper.png);
+    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/df286ca17e8e13d16dcb5ee8d4daa3c0cf61e694/bumper.svg);
     opacity: 0;
 }
 
@@ -305,7 +305,7 @@ strong {
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/master/start-select.png);
+    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/df286ca17e8e13d16dcb5ee8d4daa3c0cf61e694/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -379,7 +379,7 @@ strong {
 
 .xbox .stick {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/master/stick.png);;
+    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/df286ca17e8e13d16dcb5ee8d4daa3c0cf61e694/stick.svg);;
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -408,7 +408,7 @@ strong {
 }
 
 .xbox .face {
-    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/master/dpad.png);
+    background: url(https://raw.githubusercontent.com/JanSchmiddi/GamePadViewer/df286ca17e8e13d16dcb5ee8d4daa3c0cf61e694/dpad.svg);
     position: absolute;
     opacity: 0;
 }
